@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+# Expense-Tracker
+
+![Anushka GYM](expense.jpg)
+
+## Project Title
+
+Voice Powered Expense Tracker Web App
+
+## 1. Demo Website
+
+- 👉 Netlify : https://anushka-expense-tracker.netlify.app/
+
+## 2. You Will Learn
+
+```
+- Reactjs => Hooks(UseState, UseRef, UseEffects, UseContext).
+
+- Material UI => ( Core, Icons, UseStyles).
+
+- Speechly => Speechly is the Fast, Accurate,
+  and Simple Voice Interface API for Web, Mobile and E-commerce.
+
+- Use Local Storage
+
+```
+
+## 3. Clone repo
+
+```
+$ git@github.com:NileshShriwas/Expense-Tracker.git
+$ cd Expense-Tracker
+```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
